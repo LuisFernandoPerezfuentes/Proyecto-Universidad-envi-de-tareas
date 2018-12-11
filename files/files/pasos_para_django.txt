@@ -1,0 +1,21 @@
+Realizar todo lo que dice el video.....version de python, agregar variables de entorno.........
+https://www.youtube.com/watch?v=xqeGCHSLVs8&list=PLBO4apWPK7b7K6c-jpEI0zflZYDjVp7cd&index=2
+
+
+
+https://www.youtube.com/watch?v=9MBsaWe0SN4
+
+usuario: universidad
+password: universidad
+
+
+1. Dirigirse al proyecto.
+2. python manage.py migrate (Migrar proyecto a la base de datos)
+3. python manage.py makemigrations (Migrar las tablas)
+4. python manage.py createsuperuser (Crear un usuario adminustrador)
+5. python manage.py runserver (Correr el servidor Django)
+para correr el servidor debe estar dentro de la primer carpeta del proyecto, django maneja el servidor sqlite.
+
+
+
+https://youtu.be/NQxpzlGpZS0
